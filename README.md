@@ -13,8 +13,8 @@
 - Mental health has emerged as a paramount global concern, significantly exacerbated by the COVID-19 pandemic. According to the World Health Organization (2022), the pandemic triggered a 25% surge in adult anxiety and depression worldwide, a crisis that increasingly affects younger demographics as well. Unfortunately, accessing immediate professional care is a major hurdle. Therapists and psychiatrists frequently have long waitlists, leaving immediate help out of reach for many. While Australia offers various mental health crisis hotlines, these services are often restricted to brief, 20-minute consultations with on-call professionals, which may not be enough for long-term or complex needs.
 
 <div align="center">
-  <img width="475" height="275" alt="images" src="https://github.com/user-attachments/assets/2faf9d18-4a2c-4d1b-9e52-d8afb4e6322a" />
-  <img width="475" height="275" alt="images" src="https://raisely-images.imgix.net/beyond-bitumen/uploads/infographic-over-2-in-5-people-mental-health-condition-jpg-c6dde3.jpg" />
+  <img width="400" height="250" alt="images" src="https://github.com/user-attachments/assets/2faf9d18-4a2c-4d1b-9e52-d8afb4e6322a" />
+  <img width="400" height="250" alt="images" src="https://raisely-images.imgix.net/beyond-bitumen/uploads/infographic-over-2-in-5-people-mental-health-condition-jpg-c6dde3.jpg" />
 </div>
 
 
