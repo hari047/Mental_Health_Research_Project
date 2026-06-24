@@ -28,17 +28,18 @@
 
 ---
 
-### This project has been split into two parts, Project A & Project B
-
-#### Phases of Project A:
-|             Phase             |                      Work                    |
+### The Project has been split into two parts:
+#### Project A:
+|             Phase             |                      Work                    | 
 | :---------------------------: | :------------------------------------------: |
 |               1               |  Formulate Research Questions and Objectives | 
 |               2               |  Literature Review                           | 
 |               3               |  Dataset Exploration                         |
 |               4               |  Initial Model implementation                | 
 
-#### Phases of Project B:
+Check out the Notebook [Mental Health Trajectories Project A](Mental_Health_Trajectories_PartA.ipynb) for Project A.
+
+#### Project B:
 |             Phase             |                       Work                          | 
 | :---------------------------: | :-------------------------------------------------: |
 |               1               | Fixing the Target Labels                            | 
