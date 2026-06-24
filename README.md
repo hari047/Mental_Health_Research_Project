@@ -12,7 +12,10 @@
 #### The Escalating Mental Health Crisis and Access Barriers
 - Mental health has emerged as a paramount global concern, significantly exacerbated by the COVID-19 pandemic. According to the World Health Organization (2022), the pandemic triggered a 25% surge in adult anxiety and depression worldwide, a crisis that increasingly affects younger demographics as well. Unfortunately, accessing immediate professional care is a major hurdle. Therapists and psychiatrists frequently have long waitlists, leaving immediate help out of reach for many. While Australia offers various mental health crisis hotlines, these services are often restricted to brief, 20-minute consultations with on-call professionals, which may not be enough for long-term or complex needs.
 
-<img width="500" height="275" alt="BB_Infographics_anxiety_depression_suicide_stats_updated_Jan_2024_135_Page_2" src="https://github.com/user-attachments/assets/2faf9d18-4a2c-4d1b-9e52-d8afb4e6322a" />     <img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/94a8f798-bceb-4b1c-8a0b-6c7c23fe0d64" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="475" height="275" alt="BB_Infographics_anxiety_depression_suicide_stats_updated_Jan_2024_135_Page_2" src="https://github.com/user-attachments/assets/2faf9d18-4a2c-4d1b-9e52-d8afb4e6322a" />
+  <img width="275" height="275" alt="images" src="https://github.com/user-attachments/assets/94a8f798-bceb-4b1c-8a0b-6c7c23fe0d64" />
+</div>
 
 
 #### The Role and Risks of Online Forums
