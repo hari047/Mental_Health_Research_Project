@@ -37,7 +37,7 @@
 |               3               |  Dataset Exploration                         |
 |               4               |  Initial Model implementation                | 
 
-Check out the Notebook [Mental Health Trajectories Project A](Mental_Health_Trajectories_PartA.ipynb) for Project A.
+Check out the Notebook [Mental Health Trajectories Project A](Mental_Health_Trajectories_Part_A.ipynb) for Project A.
 
 #### Project B:
 |             Phase             |                       Work                          | 
